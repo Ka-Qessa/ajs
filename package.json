@@ -1,0 +1,19 @@
+{
+  "name": "@ka-qessa/ajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": " dist/index.js\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[3~\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ka-Qessa/ajs.git"
+  },
+  "author": "Ka-Qessa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ka-Qessa/ajs/issues"
+  },
+  "homepage": "https://github.com/Ka-Qessa/ajs#readme"
+}
